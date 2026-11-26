@@ -3,7 +3,7 @@
   "name": "accounting-deposits-and-clearing-api",
   "display_name": "Accounting Deposits and Clearing API",
   "description": "HTTP adapter for deposits and clearing.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\DepositsAndClearingApi\\DepositsAndClearingApiServiceProvider",
   "requires": {
